@@ -1,4 +1,5 @@
 "# Tp_php" 
 
-pour la base de donne il faut executer les fonctions sql qui sont dans le dossier sql.
-la bdd doit avoir comme nom 'testtest'
+Pour la base de données, il faut exécuter les requêtes SQL qui se trouvent dans le dossier 'sql'.
+
+La base de données doit avoir pour nom 'testtest'.
